@@ -4,7 +4,7 @@ A small collection of webpages that can be used as live desktop wallpapers with 
 
 ## Selection 👇
 
-- [Football Catgirl](https://imcyff.github.io/Webpapers/Pages/FootballCatgirl)
+- [Football Catgirl](https://imcyff.github.io/Webpapers/FootballCatgirl)
 
 
 ## Installation 💻
